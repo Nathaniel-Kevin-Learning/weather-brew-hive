@@ -1,0 +1,23 @@
+[
+  {
+    "email": "user1@example.com",
+    "password": "password123",
+    "role": "Users"
+  },
+  {
+    "email": "nathaniel.kevin.untoro@gmail.com",
+    "password": "password123",
+    "role": "Admin"
+  },
+  {
+    "email": "nathaniel.untoro@gmail.com",
+    "password": "password123",
+    "role": "Admin"
+  },
+  {
+    "email": "user2@example.com",
+    "password": "testing_purpose_only_123",
+    "oauth": true,
+    "role": "Admin"
+  }
+]

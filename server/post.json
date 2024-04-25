@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Weather Update: Heavy Rain Expected",
+    "shortDescription": "Heavy rain forecasted for the next 24 hours.",
+    "longDescription": "A weather system is expected to bring heavy rainfall to the region...",
+    "imgUrl": "https://t4.ftcdn.net/jpg/02/66/38/15/240_F_266381525_alVrbw15u5EjhIpoqqa1eI5ghSf7hpz7.jpg",
+    "typeId": 3,
+    "userId": 2
+  },
+  {
+    "title": "Upcoming Heatwave Alert",
+    "shortDescription": "High temperatures forecasted for the next week.",
+    "longDescription": "A prolonged period of hot and dry weather is expected to...",
+    "imgUrl": "https://t4.ftcdn.net/jpg/02/66/38/15/240_F_266381525_alVrbw15u5EjhIpoqqa1eI5ghSf7hpz7.jpg",
+    "typeId": 3,
+    "userId": 3
+  },
+  {
+    "title": "Tornado Watch Issued",
+    "shortDescription": "Tornado watch in effect until 8 PM.",
+    "longDescription": "The National Weather Service has issued a tornado watch for...",
+    "imgUrl": "https://t4.ftcdn.net/jpg/02/66/38/15/240_F_266381525_alVrbw15u5EjhIpoqqa1eI5ghSf7hpz7.jpg",
+    "typeId": 4,
+    "userId": 3
+  },
+  {
+    "title": "Snowstorm Warning: Prepare for Heavy Snow",
+    "shortDescription": "Snowstorm warning for the next 48 hours.",
+    "longDescription": "A significant snowstorm is expected to impact the area...",
+    "imgUrl": "https://t4.ftcdn.net/jpg/02/66/38/15/240_F_266381525_alVrbw15u5EjhIpoqqa1eI5ghSf7hpz7.jpg",
+    "typeId": 3,
+    "userId": 2
+  },
+  {
+    "title": "Hurricane Alert: Category 3 Hurricane Approaching",
+    "shortDescription": "Category 3 hurricane expected to make landfall...",
+    "longDescription": "A powerful Category 3 hurricane is forecasted to strike...",
+    "imgUrl": "https://t4.ftcdn.net/jpg/02/66/38/15/240_F_266381525_alVrbw15u5EjhIpoqqa1eI5ghSf7hpz7.jpg",
+    "typeId": 4,
+    "userId": 3
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Daily Forecast"
+  },
+  {
+    "name": "Weekly Forecast"
+  },
+  {
+    "name": "Emergency Forecast"
+  },
+  {
+    "name": "Disaster Forecast"
+  },
+  {
+    "name": "Special Event Forecast"
+  }
+]
